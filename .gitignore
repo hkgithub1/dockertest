@@ -1,0 +1,5 @@
+#Environtments
+venv/
+
+#Django
+__pycache__
