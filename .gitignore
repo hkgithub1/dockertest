@@ -1,5 +1,10 @@
 #Environtments
 venv/
+.env.dev
+.env.prod
+.env.prod.db
 
 #Django
 __pycache__
+db.sqlite3
+migrations
